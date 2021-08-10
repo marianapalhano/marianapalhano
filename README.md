@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Mariana Palhano
-- I’m interested in technology, natural and artificial languages, books and coffee.
-- I work with HTML, CSS and JS
-- 🌱 I’m currently learning React
+👋 Hi, I’m Mariana Palhano
+I’m interested in technology, natural and artificial languages, books and coffee.
+I work with HTML, CSS and JS
+🌱 I’m currently learning React
 
  <div>
   <a href="https://github.com/marianapalhano">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapalhano&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapalhano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
