@@ -1,7 +1,7 @@
-👋 Hi, I’m Mariana Palhano<br />
+👋 ## **Hey there, I’m Mariana**<br />
 ☕ I’m interested in technology, natural and artificial languages, books and coffee<br />
 💻 I work with HTML, CSS and JavaScript<br />
-🌱 I’m currently learning React<br />
+🌱 I’m currently learning React and Angular<br />
 
  <div>
   <a href="https://github.com/marianapalhano">
