@@ -1,7 +1,7 @@
 👋 ## **Hey there, I’m Mariana**<br />
-☕ I’m interested in technology, natural and artificial languages, books and coffee<br />
-💻 I work with HTML, CSS and JavaScript<br />
-🌱 I’m currently learning React and Angular<br />
+☕ I’m interested in technology, natural and artificial languages, books and coffee.<br />
+💻 I work with HTML, CSS, JavaScript, Typescript and Angular.<br />
+🌱 I’m always learning!<br />
 
  <div>
   <a href="https://github.com/marianapalhano">
@@ -20,6 +20,6 @@ ________
  
 <div> 
   <a href="https://instagram.com/marianapalhano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marianaufc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marianapalhano.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maripalhano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
