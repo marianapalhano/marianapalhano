@@ -1,7 +1,7 @@
-👋 ## **Hey there, I’m Mariana**<br />
+👋 **Hey there, I’m Mariana**<br />
 ☕ I’m interested in technology, natural and artificial languages, books and coffee.<br />
-💻 I work with HTML, CSS, JavaScript, Typescript and Angular. Right now I'm studying React and Nodejs.<br />
-🌱 I’m always learning!<br />
+💻 I work with HTML, CSS, JavaScript, Typescript, Angular and Nodejs.<br />
+🌱 Right now I'm studying React.<br />
 
  <div>
   <a href="https://github.com/marianapalhano">
@@ -12,8 +12,9 @@
  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+ <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>  
  
 ________
