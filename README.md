@@ -1,4 +1,4 @@
-👋 **Hey there, I’m Mariana**<br />
+👋 **Hey there, I’m Mariana, a fullstack developer.**<br />
 ☕ I’m interested in technology, natural and artificial languages, books and coffee.<br />
 💻 I work with HTML, CSS, JavaScript, Typescript, Angular and Nodejs.<br />
 🌱 Right now I'm studying React.<br />
