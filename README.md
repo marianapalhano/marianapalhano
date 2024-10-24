@@ -1,7 +1,7 @@
-👋 **Hey there, I’m Mariana, a fullstack developer.**<br />
+👋 **Hey there, I’m Mariana, a front-end developer, Angular specialist.**<br />
 ☕ I’m interested in technology, natural and artificial languages, books and coffee.<br />
 💻 I work with HTML, CSS, JavaScript, Typescript, Angular and Nodejs.<br />
-🌱 Right now I'm studying React.<br />
+🌱 Right now I'm learning Python.<br />
 
  <div>
   <a href="https://github.com/marianapalhano">
